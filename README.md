@@ -1,6 +1,7 @@
 # matlabXR
 
-Open the demo in MATLAB online using link below
+Open the demo in MATLAB online using this link 
+
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=alino93/matlabXR&file=matlabXRExample.mlx)
 
 Or clone the repo in your MATLAB online and open "matlabXRExample.mlx" 
